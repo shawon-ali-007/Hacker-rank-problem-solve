@@ -123,7 +123,8 @@ public class Solution {
 
 ### Submission Result
 
-![Prime Checker successful HackerRank submission](assets/prime_checker_result.png)
+<img width="547" height="370" alt="problem 01" src="https://github.com/user-attachments/assets/38b33ed5-efe0-4653-be87-eb19c8ce6c60" />
+
 
 **Status: Successfully solved.**
 
@@ -191,11 +192,16 @@ The only positive divisors of `13` are `1` and `13`, so it is a prime number.
 
 ### Submission Result
 
-![Java Primality Test successful HackerRank submission](assets/java_primality_test_result.png)
+<img width="530" height="389" alt="Problem 02" src="https://github.com/user-attachments/assets/d6b3a1bc-cb97-4458-9665-53abac783224" />
+
+
 
 **Status: Successfully solved.**
 
 ---
+###Leader board Result
+<img width="654" height="325" alt="Leader board" src="https://github.com/user-attachments/assets/274a02bd-3ce7-4dfe-8e2c-b60737411b56" />
+
 
 ## Summary
 
